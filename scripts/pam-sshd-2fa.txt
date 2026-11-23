@@ -1,0 +1,2 @@
+# Linha a adicionar no final de /etc/pam.d/sshd (apos a linha @include common-auth):
+auth required pam_google_authenticator.so

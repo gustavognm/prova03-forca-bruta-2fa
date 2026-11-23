@@ -1,0 +1,8 @@
+123456
+password
+qwerty
+admin
+root
+senha
+abc123
+senha123
