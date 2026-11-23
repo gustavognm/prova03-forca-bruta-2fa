@@ -229,6 +229,10 @@ Os arquivos de configuração e a wordlist utilizados estão na pasta `scripts/`
 
 O trabalho demonstrou, de forma prática e controlada, que credenciais fracas são rapidamente comprometidas por ataques automatizados de dicionário. Em seguida, duas contramedidas foram implementadas e validadas: o Fail2ban, que bloqueia o atacante após poucas tentativas, e o 2FA, que exige um segundo fator desconhecido do atacante. Ambas inviabilizaram o ataque que antes era bem-sucedido em segundos, evidenciando a importância de combinar controles de autenticação em camadas.
 
+## 10. Apresentação em Vídeo
+
+Link da apresentação no Youtube: https://youtu.be/l0HG6PgtKEM
+
 ---
 
 *Trabalho desenvolvido em ambiente de laboratório isolado, para fins exclusivamente acadêmicos e defensivos.*
